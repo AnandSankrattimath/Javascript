@@ -1,0 +1,18 @@
+Requirement
+Analyzing
+Discussion and Clarification
+Implementation
+Unit Testing
+Integration
+Integration Testing
+Deployment
+Testing the Deployed Changes
+
+We need :
+
+Repository
+IDE to Development
+Testing Tool - Chrome Browser
+Debugging - Dev Tool
+Domain Name
+Server to Deploy
